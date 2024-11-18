@@ -1,0 +1,21 @@
+{
+  "name": "slidev-new",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify/json": "^2.2.273",
+    "@slidev/cli": "^0.49.29",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-penguin": "^2.3.1",
+    "unplugin-icons": "^0.20.1",
+    "vite-svg-loader": "^5.1.0",
+    "vue": "^3.5.4"
+  },
+  "packageManager": "pnpm@9.9.0+sha512.60c18acd138bff695d339be6ad13f7e936eea6745660d4cc4a776d5247c540d0edee1a563695c183a66eb917ef88f2b4feb1fc25f32a7adcadc7aaf3438e99c1"
+}
