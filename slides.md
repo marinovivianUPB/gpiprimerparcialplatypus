@@ -221,6 +221,7 @@ level: 2
 | -------------------------------------------------- | --------------------------- |
 | Planificación | - [Términos de Referencia](https://docs.google.com/document/d/1fiNvie4f4gH7xABMu8jXinjvp0cbJ3A5IY-xnh3dtFI/edit?usp=sharing) |
 |  | - [Carta de Aceptación](https://docs.google.com/document/d/1_3uvBC1Ie3t7_GVENvzeNYNxLb8brdUDgvLwUXoNqlM/edit?usp=sharing) |
+|  | - [Trello](https://trello.com/invite/b/673ba7dc1ba98ef9624659e6/ATTI73cadfb7f0776890db52a11beeb4c19a3B8904C8/rommos-e-learning) |
 | Diseño | - [Mockups](https://www.figma.com/design/NE91vfSnG79nHuYMzPVKh6/ROMMOS-S.R.L.?node-id=0-1&t=8bP3n5IINFWnt1J7-1) |
 | Pruebas y Control de Calidad | - [Gestión de Riesgos](https://docs.google.com/spreadsheets/d/1YIFi_Ni6wJp6OitcgxiT684gkmVN59VNTqcrpeS6A_w/edit?usp=sharing) |
 |  | - [Pruebas y Hosting](https://docs.google.com/document/d/1HzFLJLpe0b3C-W5jz-oI0K8xqI2yzbzQqXbdS2ktFec/edit?usp=sharing) |
