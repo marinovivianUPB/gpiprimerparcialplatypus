@@ -2,7 +2,7 @@
 
 To start the slide show:
 
-- `npm install`
+- `pnpm install`
 - `npm run dev`
 - visit http://localhost:3030
 
