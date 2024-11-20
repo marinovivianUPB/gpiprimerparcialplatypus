@@ -40,6 +40,11 @@ layout: new-section
 
 # Plan de Proyecto
 
+<img
+  src="https://64.media.tumblr.com/be29c4a103c18ca15878cd490fbb117f/86582dcbd93c29f0-66/s540x810/437158abfb9f98412d2e6650d3a1c7f1817af51b.png"
+  alt=""
+/>
+
 ---
 level: 2
 ---
@@ -113,8 +118,6 @@ level: 2
 />
 
 ---
-level: 2
----
 
 # Herramientas
 
@@ -162,8 +165,6 @@ level: 2
 |  | utilizada para desplegar el módulo Backend |
 
 ---
-level: 2
----
 
 # Recursos
 
@@ -183,18 +184,55 @@ level: 2
 | Información del Cliente | Detalles específicos de ROMMOS S.R.L., sus servicios y objetivos, así como acceso a cualquier material o sistema que deba integrarse en la plataforma, como ser la base de datos que contiene datos de estudiantes, administradores y cursos.|
 
 ---
-level: 2
+
+<h1>Equipos (Hardware)</h1>
+
+|                                                    |                             |        |
+| -------------------------------------------------- | --------------------------- |--------|
+| Almacenamiento | Unidades de Estado Sólido (SSD) de 464 GB | Alta velocidad de lectura y escritura. Se puede complementar con unidades externas de almacenamiento |
+| Memoria RAM | DDR4 de 16 GB | Debido a que se trabajará con múltiples herramientas de desarrollo y una base de datos de tamaño desconocido. |
+| Procesador | Intel Core i7 (>= 9ª generación), con frecuencia de 2.6 GHz | Ideal para ejecutar múltiples aplicaciones simultáneamente, y trabajar con distintos entornos de desarrollo y servidores. |
+| Sistema Operativo | Windows (>=10) | Ideal para compatibilidad con herramientas comerciales y simular el entorno de un usuario promedio |
+| Puertos | Conexión Ethernet y Wi-fi, HDMI, puertos USB (>=2) | Para tener mayor flexibilidad. |
+
+---
+
+# Metodologías, Marco de Gestión y Enfoques
+
+|                                                    |                             |  |
+| -------------------------------------------------- | --------------------------- | --- |
+| Metodología Ágil | Método de gestión de proyectos enfocado a entregar avances funcionales y completos de manera periódica al cliente, priorizando la recepción de feedback y la implementación de cambios. | Todas las fases |
+| SCRUM | Marco de Gestión de Metodología Ágil. Se enfoca en dividir la fase de Desarrollo en distintos bloques de tiempo denominados Sprints. Al final de cada Sprint se aprende de los éxitos y errores para iniciar el siguiente Sprint implementando los cambios necesarios. | Desarrollo |
+| Leyes de UX | Son las mejores prácticas definidas por Jon Yablonski enfocadas a cómo el User Interface tiene un impacto directo en el User Experience. | Diseño |
+| UML | Unidified Modeling Language es un lenguaje visual creado para diseñar y documentar el funcionamiento, estructura y/o arquitectura de software. Es el estándar de la industria por su flexibilidad. | Diseño |
+
+---
+
+|                                                    |                             |  |
+| -------------------------------------------------- | --------------------------- | --- |
+| CRM | Es un enfoque en la gestión de las relaciones con los clientes. Un CRM centraliza datos sobre clientes actuales y potenciales, como datos personales, historial de interacciones, preferencias y necesidades, con el fin de mejorar la experiencia del cliente y optimizar las ventas y el marketing. | Todas las fases |
+| SCM | Es un enfoque que se refiere a un conjunto de herramientas y prácticas para la gestión y optimización de la cadena de suministro. Un software SCM coordina los flujos de productos, información y finanzas desde los proveedores hasta el consumidor final. | Todas las fases |
+
 ---
 
 # Entregables
 
 |                                                    |                             |
 | -------------------------------------------------- | --------------------------- |
-| Planificación | - Términos de Referencia |
-|  | - Carta de Aceptación |
+| Planificación | - [Términos de Referencia](https://docs.google.com/document/d/1fiNvie4f4gH7xABMu8jXinjvp0cbJ3A5IY-xnh3dtFI/edit?usp=sharing) |
+|  | - [Carta de Aceptación](https://docs.google.com/document/d/1_3uvBC1Ie3t7_GVENvzeNYNxLb8brdUDgvLwUXoNqlM/edit?usp=sharing) |
 | Diseño | - Mockups |
-| Pruebas y Control de Calidad | - Gestión de Riesgos |
-|  | - Pruebas y Hosting |
+| Pruebas y Control de Calidad | - [Gestión de Riesgos](https://docs.google.com/spreadsheets/d/1YIFi_Ni6wJp6OitcgxiT684gkmVN59VNTqcrpeS6A_w/edit?usp=sharing) |
+|  | - [Pruebas y Hosting](https://docs.google.com/document/d/1HzFLJLpe0b3C-W5jz-oI0K8xqI2yzbzQqXbdS2ktFec/edit?usp=sharing) |
+
+---
+
+|                                                    |                             |
+| -------------------------------------------------- | --------------------------- |
+| Cierre | - [Carta de Entrega](https://docs.google.com/document/d/1qLKrIcnRjSt55elf2bhf0FB6MHphy3CPqicPQl-rRFQ/edit?usp=sharing) |
+|  | - [Manual de Usuario Estudiante](https://docs.google.com/document/d/1wGDk0I3_AhIhStCHw_VgGscm2VK_Z3HEtQwnw1Dx7k8/edit?tab=t.0#heading=h.my5mfh3g5iwd) |
+|  | - [Manual de Usuario Administrador](https://docs.google.com/document/d/1-oZsOF5GV9bsGp8YAgPaxpJVuP-hV0ukPBtFb7oeUQo/edit?usp=sharing) |
+|  | - [Manual de Sistema](https://docs.google.com/document/d/1UT4DdX1X-Hropzj7ViN9cMgS0KrCk8K7F7qpTjyBafo/edit?usp=sharing) |
 
 ---
 layout: new-section
@@ -202,13 +240,18 @@ layout: new-section
 
 # Nuestro Equipo
 
+<img
+  src="https://i.pinimg.com/736x/92/8e/b8/928eb8b7ebd7ae5ba3d2ec436217f7b2.jpg"
+  alt=""
+/>
+
 ---
 level: 2
 layout: presenter
 presenterImage: './dylan.jpg'
 ---
 
-# Dylan Jitton - Doctor D
+<h1> Dylan Jitton - Doctor D</h1>
 
 - **Desarrollador Frontend y Backend**
 - **Ingeniero DevOps**
@@ -216,10 +259,10 @@ presenterImage: './dylan.jpg'
 ---
 level: 2
 layout: presenter
-presenterImage: './perry.jpg'
+presenterImage: './vivs.jpg'
 ---
 
-# Vivian Marino - Agente VMware
+<h1> Vivian Marino - Agente VMware </h1>
 
 - **Desarrollador Frontend y Backend**
 - **Especialista en Quality Assurance**
@@ -230,7 +273,7 @@ layout: presenter
 presenterImage: './perry.jpg'
 ---
 
-# Luis Paricollo - Agente P
+<h1> Luis Paricollo - Agente P </h1>
 
 - **Líder de Proyecto** - Responsable de la planificación y supervisión de todas las fases
 - **Desarrollador Backend**
@@ -239,10 +282,17 @@ presenterImage: './perry.jpg'
 ---
 level: 2
 layout: presenter
-presenterImage: 'https://res.cloudinary.com/alvarosaburido/image/upload/v1622370075/as-portfolio/alvaro_saburido.jpg'
+presenterImage: './kat.jpg'
 ---
 
-# Katzumi Urdininea - Agente U
+<h1> Katzumi Urdininea - Agente K </h1>
 
 - **Diseñador de User Interface y User Experience**
 - **Desarrollador Frontend**
+
+---
+layout: text-image
+media: "https://i.pinimg.com/736x/c7/f7/c5/c7f7c5f5d51b6a04cd3da410e7b10a45.jpg"
+---
+
+<h1>¡Muchas gracias por su atención!</h1>
