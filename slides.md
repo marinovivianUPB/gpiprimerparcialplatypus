@@ -41,7 +41,7 @@ layout: new-section
 # Plan de Proyecto
 
 <img
-  src="https://64.media.tumblr.com/be29c4a103c18ca15878cd490fbb117f/86582dcbd93c29f0-66/s540x810/437158abfb9f98412d2e6650d3a1c7f1817af51b.png"
+  src="./platypus.png"
   alt=""
 />
 
@@ -242,7 +242,7 @@ layout: new-section
 # Nuestro Equipo
 
 <img
-  src="https://i.pinimg.com/736x/92/8e/b8/928eb8b7ebd7ae5ba3d2ec436217f7b2.jpg"
+  src="./platypus.png"
   alt=""
 />
 
@@ -252,7 +252,7 @@ layout: presenter
 presenterImage: './dylan.jpg'
 ---
 
-<h1> Dylan Jitton - Doctor D</h1>
+<h1> Dylan Jitton</h1>
 
 - **Desarrollador Frontend y Backend**
 - **Ingeniero DevOps**
@@ -263,7 +263,7 @@ layout: presenter
 presenterImage: './vivs.jpg'
 ---
 
-<h1> Vivian Marino - Agente VMware </h1>
+<h1> Vivian Marino </h1>
 
 - **Desarrollador Frontend y Backend**
 - **Especialista en Quality Assurance**
@@ -274,7 +274,7 @@ layout: presenter
 presenterImage: './perry.jpg'
 ---
 
-<h1> Luis Paricollo - Agente P </h1>
+<h1> Luis Paricollo </h1>
 
 - **Líder de Proyecto** - Responsable de la planificación y supervisión de todas las fases
 - **Desarrollador Backend**
@@ -286,14 +286,14 @@ layout: presenter
 presenterImage: './kat.jpg'
 ---
 
-<h1> Katzumi Urdininea - Agente K </h1>
+<h1> Katzumi Urdininea </h1>
 
 - **Diseñador de User Interface y User Experience**
 - **Desarrollador Frontend**
 
 ---
 layout: text-image
-media: "https://i.pinimg.com/736x/c7/f7/c5/c7f7c5f5d51b6a04cd3da410e7b10a45.jpg"
+media: "./platypus.png"
 ---
 
 <h1>¡Muchas gracias por su atención!</h1>
