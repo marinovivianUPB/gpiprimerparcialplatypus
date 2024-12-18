@@ -1,6 +1,6 @@
 ---
 theme: penguin
-title: E-Learning - Platypus Sys. Inc.
+title: Software by Platypus Systems
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -60,7 +60,7 @@ level: 2
 * [Plan de Proyecto](https://docs.google.com/document/d/1eNHDRYE8go9aDiz220NRmxi36v--eYShYpWUFJxm0bM/edit?usp=drive_link)
 * [Cronogramas y herramientas](https://docs.google.com/spreadsheets/d/1kMYsyjuisyeuWlQUwh1o1Ww485PcsXMbyG-IxNFX7-k/edit?usp=drive_link)
 * [Control de Calidad](https://drive.google.com/file/d/1HTqCRQpXecUBSSQIBFtfUH-efXD1sCxE/view?usp=drive_link)
-* [Plan de Sostenibilidad](https://drive.google.com/file/d/1HTqCRQpXecUBSSQIBFtfUH-efXD1sCxE/view?usp=drive_link)
+* [Plan de Sostenibilidad](https://docs.google.com/document/d/1Pzfn2o9-0UgqtF9qFuXiSCpjuD3Tt876cp4kD0kBN6s/edit?tab=t.0)
 
 ---
 
